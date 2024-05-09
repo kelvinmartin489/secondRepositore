@@ -11,7 +11,7 @@ function Home(){
         return variableA*3 + variableC*variableB
     }
     return {
-        <;><div>Home</div>
+        <><div>Home</div>
         <p>Hola Mundo</p>
         <button onclick={addItems} /></>
 
